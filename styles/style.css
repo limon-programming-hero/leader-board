@@ -1,3 +1,64 @@
+body{
+    background-color: #f3f1ff;
+}
+
 .navbar img{
     width: 40px;
+}
+
+.player-blog{
+    border-radius: 5px ;
+}
+
+.player{
+    max-width:870px;  
+    border-radius: 10px 10px 0px 0px;
+}
+
+.text-blue{
+    color: #562EFF;
+}
+
+.player img{
+    width: 56px;
+}
+
+.main-middle{
+    max-width: 807px;
+    border: 1px solid #D1D1D1;
+}
+
+.blog{
+    max-width:870px;  
+    border-radius: 0px 0px 10px 10px;
+}
+
+.blog img{
+    width: 177px;
+}
+.courses{
+    max-width:870px;  
+    border-radius:10px;
+}
+
+.courses img{
+    width: 224px;
+}
+
+.star-clock img{
+    width: 6%;
+    height: 6%;
+    margin-right: 3px;
+}
+
+.pink-watch{
+    height: 36px;
+    width: 100px;
+    background: #FFE4E8;
+    border-radius: 14.6913px;
+   
+}
+.pink-watch img{
+    width:25px;
+    height: 25px; 
 }
